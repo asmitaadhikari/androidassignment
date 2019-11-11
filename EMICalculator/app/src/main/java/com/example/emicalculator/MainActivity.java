@@ -69,6 +69,7 @@ public class MainActivity extends AppCompatActivity {
        });
 
         }
+
         public float calcprinciple(float P){
         return (float)(P);
         }

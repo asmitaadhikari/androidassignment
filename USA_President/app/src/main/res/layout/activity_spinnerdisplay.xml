@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DisplaySpinner"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:layout_margin="10dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Your Profile Display "
+        android:textSize="40dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_marginBottom="20dp"
+        android:textColor="@color/Blue"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:id="@+id/name"
+        android:textSize="25dp"
+        android:textColor="#34495E"
+        android:layout_marginTop="10dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Age "
+        android:id="@+id/age"
+        android:textColor="#34495E"
+        android:textSize="25dp"
+        android:layout_marginTop="10dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Education "
+        android:id="@+id/edu"
+        android:textColor="#34495E"
+        android:textSize="25dp"
+        android:layout_marginTop="10dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email  "
+        android:id="@+id/email"
+        android:textColor="#34495E"
+        android:textSize="25dp"
+        android:layout_marginTop="10dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="address  "
+        android:id="@+id/address"
+        android:textColor="#34495E"
+        android:textSize="25dp"
+        android:layout_marginTop="10dp"/>
+
+
+
+
+
+
+</LinearLayout>

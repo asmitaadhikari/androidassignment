@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Presidents</string>
+    <string name="form">Spinner</string>
+    <string-array name="Place">
+        <item>Kathmandu</item>
+        <item>Bhaktapur</item>
+        <item>Pokhara</item>
+        <item>Lalitpur</item>
+        <item>Illam</item>
+        <item>Dhading</item>
+        <item>Chitwan</item>
+        <item>Dharan</item>
+    </string-array>
+</resources>
